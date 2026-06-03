@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I'm Nadeesha
 
-<!--
-**NadeeshaKudakolawa/nadeeshakudakolawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Java | Spring Boot | Vue.js
 
-Here are some ideas to get you started:
+I am a Java back-end developer with experience in developing enterprise applications using Java, Spring Boot, MySQL, and Vue.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on:
+
+* ITMD -
+
+🌱 Currently learning:
+
+* Vue.js
+* Linux - Basic
+
+### Tech Stack
+
+* Java
+* Spring Boot
+* MySQL
+* Vue.js
+* Git
+* REST APIs
+
+### Featured Projects
+
+* Asset Management System
+* JWT Authentication Service
+* Vehicle Management System
+* Microservices Demo
+
+### Connect With Me
+
+* LinkedIn: (https://www.linkedin.com/in/nadeesha-kudakolawa-11719463/)
+* Email: nadeeshakkn88@gmail.com
